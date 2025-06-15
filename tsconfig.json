@@ -10,6 +10,7 @@
     // 如果你想用别名，比如 `@/*` 指向 `src/*`，可以这样写
     "paths": {
       "src/*": ["src/*"],
+      "styled-system/*": ["styled-system/*"],
       "@/*": ["src/*"]
     },
     "moduleResolution": "node",
